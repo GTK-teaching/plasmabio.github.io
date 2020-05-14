@@ -1,3 +1,10 @@
+feature_text: |
+  ## Plasma
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+feature_image: "https://picsum.photos/1300/400?image=989"
+layout: page
+---
+
 ## Plasma
 
 Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
