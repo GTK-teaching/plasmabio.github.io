@@ -12,7 +12,7 @@ encoding: utf-8
 lang: en-GB
 title: "Plasma" 
 logo: "/assets/img/logo.png"
-description: "Plasma is an e-learning Juputer-based plateform for massive data analysis"
+description: "Plasma is an e-learning Jupyter-based plateform for massive data analysis"
 url: "https://plasmabio.org"
 baseurl: ""
 repo: "https://github.com/plasmabio/"
@@ -22,7 +22,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Contact
-  email: "contact@plasmabio.org"
+  url: "mailto:contact@plasmabio.org"
 
 navigation_footer:
 - title: PlasmaBio
