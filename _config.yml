@@ -12,7 +12,7 @@ encoding: utf-8
 lang: en-GB
 title: "Plasma" 
 logo: "/assets/img/logo.png"
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Plasma is an e-learning Juputer-based plateform for massive data analysis"
 url: "https://plasmabio.org"
 baseurl: ""
 repo: "https://github.com/plasmabio/"
