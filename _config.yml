@@ -1,5 +1,19 @@
 #theme: jekyll-theme-minimal
 remote_theme: daviddarnes/alembic
+
 plugins:
     - jekyll-remote-theme
+    - jekyll-commonmark
 
+twitter:
+  username: PlasmaBio
+
+encoding: utf-8
+lang: en-GB
+title: "Plasma" 
+logo: "/assets/img/logo.png"
+description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+url: "https://plasmabio.org"
+baseurl: ""
+repo: "https://github.com/plasmabio/"
+email: "contact@plasmabio.org"
