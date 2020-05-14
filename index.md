@@ -8,49 +8,55 @@ First instances of Plasma are designed for the needs of teachers and students of
 PlasmaBio is the leading organization of the Plasma project. It is composed of
 
 ### Claire Vandiedonck
-associate professor at Université de Paris
-research interest: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
-teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
-Twitter: @CVandiedonck
-GitHub: https://github.com/CVandiedonck
+
+- Associate professor at Université de Paris
+- Research interest: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
+- Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
+- Twitter: @CVandiedonck
+- GitHub: https://github.com/CVandiedonck
 
 ### Pierre Poulain
-associate professor at Université de Paris
-research interests: isotope labeling in proteomics, scientific software development
-teaching: Python programming, Unix, proteomics
-Twitter: @pierrepo
-GitHub: https://github.com/pierrepo
+- Associate professor at Université de Paris
+- Research interests: isotope labeling in proteomics, scientific software development
+- Teaching: Python programming, Unix, proteomics
+- Twitter: @pierrepo
+- GitHub: https://github.com/pierrepo
 
 ### Sandrine Caburet
-associate professor at Université de Paris
-Teaching: genomics, human genetics, bioinformatics
-Research interests : genetics of human infertility
-Twitter: @Scaburet
-GitHub: https://github.com/Scaburet
+- Associate professor at Université de Paris
+- Research interests: genetics of human infertility
+- Teaching: genomics, human genetics, bioinformatics
+- Twitter: @Scaburet
+- GitHub: https://github.com/Scaburet
+
 
 # Partners
 
 QuantStack is a team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
 https://quantstack.net/
 
+
+
 # Sponsors
 
 Sponsors to the Plasma initiative include:
-- Région Île-de-France, via the “Trophées franciliens de l’innovation numérique dans le supérieur” (EdTech 2018) grant program,
-- Université de Paris, via the Initiative of Excellence (IdEx) Label and its "innovating teaching" grant program,
-- EUR G.E.N.E., the graduate school on Genetics and Epigenetics,
-- the university training "Création, analyse et valorisation de données biologiques omiques" (DU Omiques).
+- [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
+- [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
+- [EUR G.E.N.E.](https://twitter.com/EURGENEPARIS), the graduate school on Genetics and Epigenetics,
+- the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://omics-school.net/)).
 
 The overall budget of the project is 140 k€.
+
 
 # Further reading
 
 ## Plasma
-- public announcement Plasma: A learning platform powered by Jupyter
+- public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
 - code : https://github.com/plasmabio/plasma 
 - documentation: https://docs.plasmabio.org/
 
-Plasma uses tljh-repo2docker, a repo2docker plugin for The Littlest JupyterHub
+Plasma uses [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
+
 
 ## ipycytoscape
 
