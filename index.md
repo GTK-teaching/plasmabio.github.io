@@ -1,11 +1,12 @@
 # Plasma 
 
 Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
-
-First instances of Plasma are designed for the needs of teachers and students of the European Master of Genetics at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
+[
+First instances of Plasma are designed for the needs of teachers and students of the European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
 
 # PlasmaBio
 PlasmaBio is the leading organization of the Plasma project. It is composed of:
+
 
 #### Claire Vandiedonck
 
@@ -16,6 +17,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 - GitHub: https://github.com/CVandiedonck
 
 #### Pierre Poulain
+
 - Associate professor at Université de Paris
 - Research interests: isotope labeling in proteomics, scientific software development
 - Teaching: Python programming, Unix, proteomics
@@ -23,6 +25,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 - GitHub: https://github.com/pierrepo
 
 #### Sandrine Caburet
+
 - Associate professor at Université de Paris
 - Research interests: genetics of human infertility
 - Teaching: genomics, human genetics, bioinformatics
@@ -50,14 +53,16 @@ The overall budget of the project is 140 k€.
 
 ## Plasma
 - public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
-- code : https://github.com/plasmabio/plasma 
-- documentation: https://docs.plasmabio.org/
+- code : <https://github.com/plasmabio/plasma>
+- documentation: <https://docs.plasmabio.org/>
 
 Plasma uses [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
 
 
 ## ipycytoscape
 
-Also part of the Plasma project, the new ipycytoscape package for interactive graph visualization in Jupyter: https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63
+Also part of the Plasma project, the new ipycytoscape package for interactive graph visualization in Jupyter: <https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63>
+
+
 
 
