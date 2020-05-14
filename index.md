@@ -55,19 +55,19 @@ Sponsors to the Plasma initiative include:
 The overall budget of the project is 140 k€.
 
 
-## Further reading
+## Achievements
 
 ### Plasma
 - public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
-- code : <https://github.com/plasmabio/plasma>
+- code: <https://github.com/plasmabio/plasma>
 - documentation: <https://docs.plasmabio.org/>
 
-Plasma uses [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
+Plasma utilizes [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
 
 
 ### ipycytoscape
 
-Also part of the Plasma project, the new ipycytoscape package for interactive graph visualization in Jupyter: <https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63>
+Also part of the Plasma project, the new [ipycytoscape](https://github.com/QuantStack/ipycytoscape) package for interactive graph visualization in Jupyter: <https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63>
 
 
 
