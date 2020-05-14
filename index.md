@@ -3,7 +3,7 @@ title: Plasma
 feature_text: |
   ## Plasma
   e-learning Jupyter-based plateform for massive data analysis
-feature_image: "https://picsum.photos/1300/400?image=201"
+feature_image: "https://picsum.photos/1300/400?image=4"
 layout: page
 ---
 
