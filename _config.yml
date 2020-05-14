@@ -18,6 +18,12 @@ baseurl: ""
 repo: "https://github.com/plasmabio/"
 email: "contact@plasmabio.org"
 
+navigation_header:
+- title: Home
+  url: /
+- title: Contact
+  email: "contact@plasmabio.org"
+
 navigation_footer:
 - title: PlasmaBio
   url: https://plasmabio.org
