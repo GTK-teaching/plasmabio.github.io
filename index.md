@@ -14,12 +14,11 @@ First instances of Plasma are designed for the needs of teachers and students of
 
 ## PlasmaBio
 
-PlasmaBio is the leading organization of the Plasma project. It is composed of:
+PlasmaBio is the leading organization of the Plasma project. It is composed of three associate professors at Université de Paris:
 
 
 ##### Claire Vandiedonck
 
-- Associate professor at Université de Paris
 - Research interests: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
 - Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
 - Twitter: @CVandiedonck
@@ -27,7 +26,6 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 
 ##### Pierre Poulain
 
-- Associate professor at Université de Paris
 - Research interests: isotope labeling in proteomics, scientific software development
 - Teaching: Python programming, Unix, proteomics
 - Twitter: @pierrepo
@@ -35,7 +33,6 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 
 ##### Sandrine Caburet
 
-- Associate professor at Université de Paris
 - Research interests: genetics of human infertility
 - Teaching: genomics, human genetics, bioinformatics
 - Twitter: @Scaburet
