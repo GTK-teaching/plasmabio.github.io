@@ -1,6 +1,9 @@
+## Plasma
+
 Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
-[
-First instances of Plasma are designed for the needs of teachers and students of the European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
+
+First instances of Plasma are designed for the needs of teachers and students of the [European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
+
 
 ## PlasmaBio
 
@@ -10,7 +13,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 ##### Claire Vandiedonck
 
 - Associate professor at Université de Paris
-- Research interest: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
+- Research interests: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
 - Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
 - Twitter: @CVandiedonck
 - GitHub: https://github.com/CVandiedonck
