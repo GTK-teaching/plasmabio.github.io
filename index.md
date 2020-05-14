@@ -36,10 +36,9 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 
 - Research interests: isotope labeling in proteomics, scientific software development
 - Teaching: Python programming, Unix, proteomics
-- Twitter: @pierrepo
-- GitHub: https://github.com/pierrepo
 
-<a href="https://twitter.com/pierrepo"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg></a>
+<a href="https://twitter.com/pierrepo" style="text-decoratopn:none;"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg></a>
+<a href="https://github.com/pierrepo" style="text-decoratopn:none;"><svg width="16" height="16" class="icon  icon--github" role="img" alt="github"><title>github</title><use xlink:href="#github" fill="CurrentColor"></use></svg></a>
 
 ##### Sandrine Caburet
 
