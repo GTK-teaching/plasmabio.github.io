@@ -29,24 +29,28 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 
 - Research interests: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
 - Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
-- Twitter: @CVandiedonck
-- GitHub: https://github.com/CVandiedonck
+
+<a href="https://twitter.com/CVandiedonck" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg></a>
+<a href="https://github.com/CVandiedonck" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--github" role="img" alt="github"><title>github</title><use xlink:href="#github" fill="CurrentColor"></use></svg></a>
+
 
 ##### Pierre Poulain
 
 - Research interests: isotope labeling in proteomics, scientific software development
 - Teaching: Python programming, Unix, proteomics
 
-<a href="https://twitter.com/pierrepo" style="text-decoration:none;"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg></a>
-<a href="https://github.com/pierrepo" style="text-decoration:none;"><svg width="16" height="16" class="icon  icon--github" role="img" alt="github"><title>github</title><use xlink:href="#github" fill="CurrentColor"></use></svg></a>
-<a href="https://cupnet.net" style="text-decoration:none;"><svg width="16" height="16" class="icon  icon--link" role="img" alt="link"><title>link</title><use xlink:href="#link" fill="CurrentColor"></use></svg></a>
+<a href="https://twitter.com/pierrepo" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg></a>
+<a href="https://github.com/pierrepo" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--github" role="img" alt="github"><title>github</title><use xlink:href="#github" fill="CurrentColor"></use></svg></a>
+<a href="https://cupnet.net" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--link" role="img" alt="link"><title>link</title><use xlink:href="#link" fill="CurrentColor"></use></svg></a>
 
 ##### Sandrine Caburet
 
 - Research interests: genetics of human infertility
 - Teaching: genomics, human genetics, bioinformatics
-- Twitter: @Scaburet
-- GitHub: https://github.com/Scaburet
+
+<a href="https://twitter.com/Scaburet" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg></a>
+<a href="https://github.com/Scaburet" style="text-decoration: none;"><svg width="16" height="16" class="icon  icon--github" role="img" alt="github"><title>github</title><use xlink:href="#github" fill="CurrentColor"></use></svg></a>
+
 
 
 ## Partners
