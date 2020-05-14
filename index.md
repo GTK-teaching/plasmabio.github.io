@@ -1,4 +1,5 @@
 ---
+title: Plasma
 feature_text: |
   ## Plasma
   e-learning Jupyter-based plateform for massive data analysis
