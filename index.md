@@ -1,6 +1,6 @@
 # Plasma 
 
-Plasma, aka in French, "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*". This project aims at creating an interactive tool to teach computational analysis of massive scientific data.
+Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
 
 First instances of Plasma are designed for the needs of teachers and students of the European Master of Genetics at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
 
