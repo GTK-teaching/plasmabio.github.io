@@ -1,14 +1,13 @@
-# Plasma 
-
 Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
 [
 First instances of Plasma are designed for the needs of teachers and students of the European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
 
-# PlasmaBio
+## PlasmaBio
+
 PlasmaBio is the leading organization of the Plasma project. It is composed of:
 
 
-#### Claire Vandiedonck
+##### Claire Vandiedonck
 
 - Associate professor at Université de Paris
 - Research interest: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
@@ -16,7 +15,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 - Twitter: @CVandiedonck
 - GitHub: https://github.com/CVandiedonck
 
-#### Pierre Poulain
+##### Pierre Poulain
 
 - Associate professor at Université de Paris
 - Research interests: isotope labeling in proteomics, scientific software development
@@ -24,7 +23,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 - Twitter: @pierrepo
 - GitHub: https://github.com/pierrepo
 
-#### Sandrine Caburet
+##### Sandrine Caburet
 
 - Associate professor at Université de Paris
 - Research interests: genetics of human infertility
@@ -33,12 +32,12 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of:
 - GitHub: https://github.com/Scaburet
 
 
-# Partners
+## Partners
 
 [QuantStack](https://quantstack.net/) is a team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
 
 
-# Sponsors
+## Sponsors
 
 Sponsors to the Plasma initiative include:
 - [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
@@ -49,9 +48,9 @@ Sponsors to the Plasma initiative include:
 The overall budget of the project is 140 k€.
 
 
-# Further reading
+## Further reading
 
-## Plasma
+### Plasma
 - public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
 - code : <https://github.com/plasmabio/plasma>
 - documentation: <https://docs.plasmabio.org/>
@@ -59,7 +58,7 @@ The overall budget of the project is 140 k€.
 Plasma uses [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
 
 
-## ipycytoscape
+### ipycytoscape
 
 Also part of the Plasma project, the new ipycytoscape package for interactive graph visualization in Jupyter: <https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63>
 
