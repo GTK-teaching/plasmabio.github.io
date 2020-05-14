@@ -5,9 +5,9 @@ Plasma, aka in French, "*Plateforme d'eLearning pour l'Analyse de données Scien
 First instances of Plasma are designed for the needs of teachers and students of the European Master of Genetics at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
 
 # PlasmaBio
-PlasmaBio is the leading organization of the Plasma project. It is composed of
+PlasmaBio is the leading organization of the Plasma project. It is composed of:
 
-### Claire Vandiedonck
+#### Claire Vandiedonck
 
 - Associate professor at Université de Paris
 - Research interest: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
@@ -15,14 +15,14 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of
 - Twitter: @CVandiedonck
 - GitHub: https://github.com/CVandiedonck
 
-### Pierre Poulain
+#### Pierre Poulain
 - Associate professor at Université de Paris
 - Research interests: isotope labeling in proteomics, scientific software development
 - Teaching: Python programming, Unix, proteomics
 - Twitter: @pierrepo
 - GitHub: https://github.com/pierrepo
 
-### Sandrine Caburet
+#### Sandrine Caburet
 - Associate professor at Université de Paris
 - Research interests: genetics of human infertility
 - Teaching: genomics, human genetics, bioinformatics
@@ -32,9 +32,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of
 
 # Partners
 
-QuantStack is a team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
-https://quantstack.net/
-
+[QuantStack](https://quantstack.net/) is a team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
 
 
 # Sponsors
