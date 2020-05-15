@@ -54,7 +54,7 @@ Sponsors to the Plasma initiative include:
 The overall budget of the project is 140 k€.
 
 
-## Achievements
+## Developments & achievements
 
 ### Plasma
 - public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
