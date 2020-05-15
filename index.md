@@ -21,21 +21,21 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 
 - Research interests: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
 - Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
-- <a href="https://twitter.com/CVandiedonck">Twitter</a> | <a href="https://github.com/CVandiedonck">GitHub</a>
+- <a href="https://twitter.com/CVandiedonck">Twitter</a> ~ <a href="https://github.com/CVandiedonck">GitHub</a>
 
 
 ##### Pierre Poulain
 
 - Research interests: isotope labeling in proteomics, scientific software development
 - Teaching: Python programming, Unix, proteomics
-- <a href="https://twitter.com/pierrepo">Twitter</a> | <a href="https://github.com/pierrepo">GitHub</a> | <a href="https://cupnet.net">website</a>
+- <a href="https://twitter.com/pierrepo">Twitter</a> ~ <a href="https://github.com/pierrepo">GitHub</a> ~ <a href="https://cupnet.net">website</a>
 
 
 ##### Sandrine Caburet
 
 - Research interests: genetics of human infertility
 - Teaching: genomics, human genetics, bioinformatics
-- <a href="https://twitter.com/Scaburet">Twitter</a> | <a href="https://github.com/Scaburet">GitHub</a>
+- <a href="https://twitter.com/Scaburet">Twitter</a> ~ <a href="https://github.com/Scaburet">GitHub</a>
   
 
 ## Partners
