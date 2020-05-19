@@ -2,7 +2,7 @@
 title: Plasma
 feature_text: |
   ## Plasma
-  e-learning Jupyter-based plateform for massive data analysis
+  #### e-learning Jupyter-based plateform for massive data analysis
 feature_image: "/assets/img/background-2462431_Pixabay.jpg"
 layout: page
 ---
