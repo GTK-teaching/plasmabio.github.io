@@ -9,7 +9,7 @@ layout: page
 
 Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
 
-{% include figure.html image="/assets/img/logo_PLASMA.jpg" alt="Plasma logo" %}
+{% include figure.html image="/assets/img/logo_PLASMA.png" alt="Plasma logo" %}
 
 Plasma was born out of the need to offer a high-performance analysis environment to our students, based on JupyterHub, but not in the cloud. We wanted a solution that could be easily deployed on bare-metal servers or virtual machines, with numerous and specific analysis environments, simple to create and intuitively manageable.
 
