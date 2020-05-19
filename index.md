@@ -34,6 +34,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 - Teaching: Python programming, Unix, proteomics
 - <a href="https://twitter.com/pierrepo">Twitter</a> ~ <a href="https://github.com/pierrepo">GitHub</a> ~ <a href="https://cupnet.net">website</a>
 
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
 
 ##### Sandrine Caburet
 
