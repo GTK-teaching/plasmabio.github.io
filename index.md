@@ -7,13 +7,21 @@ feature_image: "/assets/img/background-2462431_Pixabay.jpg"
 layout: page
 ---
 
-Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data.
+Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scientifiques MAssives*", aims at creating an interactive tool to teach computational analysis of massive scientific data. Plasma was born out of the need to offer a reproducible and high-performance analysis environment to our students.
 
 {% include figure.html image="/assets/img/logo_PLASMA.png" alt="Plasma logo" %}
 
-Plasma was born out of the need to offer a high-performance analysis environment to our students, based on JupyterHub, but not in the cloud. We wanted a solution that could be easily deployed on bare-metal servers or virtual machines, with numerous and specific analysis environments, simple to create and intuitively manageable.
+Our previous experiences of teaching genomics were not satisfying. Because of the limited availability of computational resources, studied samples were restricted to very small datasets, far from what is nowadays routinely analyzed in research labs. Furthermore, remote access to computational resources was not always possible and the user experience provided by the classical Unix terminal was somewhat intimidating for the students.
 
-First instances of Plasma are designed for the needs of teachers and students of the [European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris. They provide an authentic experience of the actual genomic and bioinformatic analyses performed in research labs.
+Plasma aims at providing an authentic experience of the actual bioinformatic analyses performed in research labs. Jupyter notebooks will be used to describe, implement and teach such analyses. These notebooks are interactive numerical notebooks that integrate computer code in several programming languages (Python, R, Bash, C++...), text, mathematical equations and the visualization of analysis results in the form of graphics or tables. This technology is gradually becoming a standard for data analysis, as evidenced by the millions of notebooks available on the GitHub collaborative development platform.
+
+We also wanted a web-based solution that could be easily deployed on bare-metal servers or virtual machines, able to handle numerous, simultaneous and specific analysis environments (supporting any programming languages), with a simple and intuitive management interface.
+
+This project is carried out in collaboration with QuantStack, a company strongly involved in the development of the Jupyter ecosystem. Notebooks will be hosted on high-performance computer servers using the JupyterHub open source and highly customizable technology. Students will be able to connect remotely and carry out their analysis in a user-friendly and powerful environment. Data will be centralized on the servers and readily available for analysis.
+
+The first instance of Plasma is designed for the needs of teachers and students of the [European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris.
+
+Ultimately, this project is a proof of concept and the implemented solution will be fully documented and freely available to the community.
 
 
 ## PlasmaBio
