@@ -2,7 +2,7 @@
 title: Plasma
 feature_text: |
   ## Plasma
-  #### e-learning Jupyter-based plateform for massive data analysis
+  #### e-learning Jupyter-based platform for massive data analysis
 feature_image: "/assets/img/background-2462431_Pixabay.jpg"
 layout: page
 ---
@@ -21,7 +21,7 @@ This project is carried out in collaboration with QuantStack, a company strongly
 
 The first instance of Plasma is designed for the needs of teachers and students of the [European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris.
 
-Ultimately, this project is a proof of concept and the implemented solution will be fully documented and freely available to the community.
+Ultimately, this project is a proof of concept and the implemented solution is fully documented and freely available to the community.
 
 
 ## PlasmaBio
