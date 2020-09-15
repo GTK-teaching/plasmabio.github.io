@@ -10,8 +10,10 @@ twitter:
 
 encoding: utf-8
 lang: en-GB
-title: "Plasma" 
+title: "Plasma"
 logo: "/assets/img/logo.png"
+favicons:
+  - "/assets/img/logo.png"
 description: "Plasma is an e-learning Jupyter-based plateform for massive data analysis"
 url: "https://plasmabio.org"
 baseurl: ""
