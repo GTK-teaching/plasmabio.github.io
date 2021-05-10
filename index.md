@@ -60,7 +60,7 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 Sponsors to the Plasma initiative include:
 - [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
 - [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
-- [EUR G.E.N.E.](https://twitter.com/EURGENEPARIS), the graduate school on Genetics and Epigenetics,
+- [EUR G.E.N.E.](https://eur-gene.u-paris.fr/), the graduate school on Genetics and Epigenetics,
 - the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://omics-school.net/)).
 
 The overall budget of the project is 140 k€.
@@ -72,6 +72,7 @@ The overall budget of the project is 140 k€.
 - public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
 - code: <https://github.com/plasmabio/plasma>
 - documentation: <https://docs.plasmabio.org/>
+- 2' [video](https://www.youtube.com/watch?v=0KIMSPTMzVY) of the project presented at JupyterCon 2020
 
 Plasma utilizes [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
 

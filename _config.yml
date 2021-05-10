@@ -23,6 +23,8 @@ email: "contact@plasmabio.org"
 navigation_header:
 - title: Home
   url: /
+- title: Video
+  url: https://www.youtube.com/watch?v=0KIMSPTMzVY
 - title: Contact
   url: "mailto:contact@plasmabio.org"
 
