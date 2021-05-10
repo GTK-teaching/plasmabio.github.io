@@ -72,7 +72,7 @@ The overall budget of the project is 140 k€.
 - public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
 - code: <https://github.com/plasmabio/plasma>
 - documentation: <https://docs.plasmabio.org/>
-- 2' [video](https://www.youtube.com/watch?v=0KIMSPTMzVY) of the project presented at JupyterCon 2020
+- [2' video](https://www.youtube.com/watch?v=0KIMSPTMzVY) of the project presented at JupyterCon 2020
 
 Plasma utilizes [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
 
