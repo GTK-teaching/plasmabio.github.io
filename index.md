@@ -13,26 +13,29 @@ Plasma, aka in French "*Plateforme d'eLearning pour l'Analyse de données Scient
 
 Our previous experiences of teaching genomics were not satisfying. Because of the limited availability of computational resources, studied samples were restricted to very small datasets, far from what is nowadays routinely analyzed in research labs. Furthermore, remote access to computational resources was not always possible and the user experience provided by the classical Unix terminal was somewhat intimidating for the students.
 
-Plasma aims at providing an authentic experience of the actual bioinformatic analyses performed in research labs. Jupyter notebooks will be used to describe, implement and teach such analyses. These notebooks are interactive numerical notebooks that integrate computer code in several programming languages (Python, R, Bash, C++...), text, mathematical equations and the visualization of analysis results in the form of graphics or tables. This technology is gradually becoming a standard for data analysis, as evidenced by the millions of notebooks available on the GitHub collaborative development platform.
+Plasma aims at providing an authentic experience of the actual bioinformatic analyses performed in research labs. Jupyter notebooks are used to describe, implement and teach such analyses. These notebooks are interactive numerical notebooks that integrate computer code in several programming languages (Python, R, Bash, C++...), text, mathematical equations and the visualization of analysis results in the form of graphics or tables. This technology is now a standard for data analysis, as evidenced by the millions of notebooks available on the GitHub collaborative development platform.
 
 We also wanted a web-based solution that could be easily deployed on bare-metal servers or virtual machines, able to handle numerous, simultaneous and specific analysis environments (supporting any programming languages), with a simple and intuitive management interface.
 
-This project is carried out in collaboration with QuantStack, a company strongly involved in the development of the Jupyter ecosystem. Notebooks will be hosted on high-performance computer servers using the JupyterHub open source and highly customizable technology. Students will be able to connect remotely and carry out their analysis in a user-friendly and powerful environment. Data will be centralized on the servers and readily available for analysis.
+This project is carried out in collaboration with [QuantStack](https://quantstack.net/), a company strongly involved in the development of the Jupyter ecosystem. Notebooks are hosted on high-performance computer servers using the JupyterHub open source and highly customizable technology. Students are able to connect remotely and carry out their analysis in a user-friendly and powerful environment. Data are centralized on the servers and readily available for analysis.
 
-The first instance of Plasma is designed for the needs of teachers and students of the [European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université de Paris.
+The first instance of Plasma was designed for the needs of teachers and students of the [European Master of Genetics](http://www.magisteregenet.univ-paris-diderot.fr/) at Université Paris Cité. It and was fully operational in september 2020. Since then, it has been used by more then 250 life-science and medical students and 20 teachers at Université Paris Cité.
 
-Ultimately, this project is a proof of concept and the implemented solution is fully documented and freely available to the community.
+The first stage of this project, Plasma 1.0, was a proof of concept. The implemented solution is fully documented and freely available to the community. It has been already successfully deployed at the [Université de Rouen Normandie](https://www.univ-rouen.fr/) for 1st-year medical students. tljh-repo2docker, the core part of Plasma, is also being used by the [CNAM](https://www.cnam.fr/) for 40 courses reaching more than 1000 students.
+
+Thanks to the success of Plasma 1.0, we are currently expanding the project and we are working on a future version, Plasma 2.0, for massive teaching including an automated management of user accounts and an automatic grading of notebooks. These new developments will notably be implemented for genomics teaching at the [National University of Singapore (NUS)](https://www.nus.edu.sg/).
+
 
 
 ## PlasmaBio
 
-PlasmaBio is the leading organization of the Plasma project. It is composed of three associate professors at Université de Paris:
+PlasmaBio is the leading organization of the Plasma project. It is composed of three associate professors at Université Paris Cité:
 
 
 ##### Claire Vandiedonck
 
 - Research interests: genetics of autoimmune and inflammatory diseases, regulation of immune gene expression
-- Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université de Paris
+- Teaching: human genetics, genomics, biostatistics, bioinformatics for students in medical school and biology department of Université Paris Cité
 - <a href="https://twitter.com/CVandiedonck">Twitter</a> ~ <a href="https://github.com/CVandiedonck">GitHub</a>
 
 
@@ -52,18 +55,27 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 
 ## Partners
 
-[QuantStack](https://quantstack.net/) is a team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
+- [QuantStack](https://quantstack.net/) is a team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
+- Greg Tucker-Kellogg, is the director of the Computer Biology Program at the Faculty of Science in [National University of Singapore (NUS)](https://www.nus.edu.sg/).
 
 
 ## Sponsors
 
 Sponsors to the Plasma initiative include:
+
+For Plasma 1.0 (2019-2022):
+
 - [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
 - [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
 - [EUR G.E.N.E.](https://eur-gene.u-paris.fr/), the graduate school on Genetics and Epigenetics,
 - the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://omics-school.net/)).
 
-The overall budget of the project is 140 k€.
+For Plasma 2.0 (2022-):
+
+- [Université Paris Cité](https://u-paris.fr/en/), via via the Paris-NUS call for Innovative Projects in Higher Education (2022-2023) - ANR-18-IDEX-0001
+- [National University of Singapore (NUS)](https://www.nus.edu.sg/) via the Paris-NUS call for Innovative Projects in Higher Education (2022-2023) 
+
+The overall budget of the project is 180 k€.
 
 
 ## Developments & achievements
@@ -74,7 +86,7 @@ The overall budget of the project is 140 k€.
 - documentation: <https://docs.plasmabio.org/>
 - [2' video](https://www.youtube.com/watch?v=0KIMSPTMzVY) of the project presented at JupyterCon 2020
 
-Plasma utilizes [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub
+The core of Plasma is [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub.
 
 
 ### ipycytoscape
