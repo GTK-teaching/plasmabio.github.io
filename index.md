@@ -71,7 +71,7 @@ Sponsors to the Plasma initiative include:
 - For Plasma 1.0 (2019-2022):
 
   - [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
-  - [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
+  - [Université Paris Cité](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
   - [EUR G.E.N.E.](https://eur-gene.u-paris.fr/), the graduate school on Genetics and Epigenetics,
   - the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-1/sciences-technologies-sante-STS/du-creation-analyse-et-valorisation-de-donnees-biologiques-omiques-DUSCAVD_117.html)).
 
@@ -95,8 +95,6 @@ The first release of Plasma has been released in May 2020: [Plasma: A learning p
 
 To ease the creation of new environments in Plasma, we have created several templates for: [Python](https://github.com/plasmabio/template-python), [R](https://github.com/plasmabio/template-r), [Bash](https://github.com/plasmabio/template-bash) and [Octave](https://github.com/plasmabio/template-octave).
 
-### Other developments
-
 Beyond the e-learning platform itself, the project has founded or co-founded a number of scientific developments to expand the Jupyter ecosystem in genomics and pedagogy.
 
 - [ipycytoscape](https://github.com/QuantStack/ipycytoscape) brings interactive graph visualization in Jupyter. See also the blog post [Interactive Graph Visualization in Jupyter with ipycytoscape](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63) (2020).
@@ -110,3 +108,8 @@ Plasma has been presented in computer science and genomics conferences:
 - JupyterCon 2020. [Plasma: versatile e-learning platform powered by The Littlest JupyterHub](https://www.youtube.com/watch?v=0KIMSPTMzVY) (2' video)
 - European Society of Human Genetics (ESHG) 2021. [*P17.038.A* Plasma: a versatile e-learning platform for teaching interactively genomic and genetic data analysis with Jupyter notebooks](https://www.nature.com/articles/s41431-021-01026-1#Sec2123)
 - Journées Réseaux de l'Enseignement Supérieur (JRES) 2021 (in French). Plasma : plateforme d’e-learning pour l’analyse interactive de données. ([21' vidéo](https://replay.jres.org/w/f1rZTkh84cNimWf4aXHxN1) + [paper](https://hal.archives-ouvertes.fr/hal-03563658)).
+
+
+Press release:
+
+- [Hybridation pédagogique : découvrez et expérimentez PLASMA](https://u-paris.fr/hybridation-pedagogique-decouvrez-et-experimentez-plasma/?pk_campaign=Personnels), 2021, Université Paris Cité newsletter.
