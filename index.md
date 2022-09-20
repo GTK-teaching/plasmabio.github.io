@@ -41,8 +41,8 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 
 ##### Pierre Poulain
 
-- Research interests: isotope labeling in proteomics, scientific software development
-- Teaching: Python programming, Unix, proteomics
+- Research interests: proteomics, molecular dynamics, open data, scientific software development
+- Teaching: Python programming, Unix, data management
 - <a href="https://twitter.com/pierrepo">Twitter</a> ~ <a href="https://github.com/pierrepo">GitHub</a> ~ <a href="https://cupnet.net">website</a>
 
 
@@ -59,21 +59,26 @@ PlasmaBio is the leading organization of the Plasma project. It is composed of t
 - Greg Tucker-Kellogg, is the director of the Computer Biology Program at the Faculty of Science in [National University of Singapore (NUS)](https://www.nus.edu.sg/).
 
 
+## Governance
+
+In addition to the leading organization of Plasma, a boarding committee meets twice a year. This board includes a representative of the graduate school on Genetics and Epigenetics [G.E.N.E.](https://eur-gene.u-paris.fr/), an associate professor at [Université Sorbonne Paris Nord](https://en.univ-paris13.fr/), two students at the master and doctoral levels, a representative of the Région Île-de-France, the co-head of the National Network of Computational Resources at the [French Institute of Bioinformatics](https://en.univ-paris13.fr/) and the CEO of our partner [QuantStack](https://quantstack.net/).
+
+
 ## Sponsors
 
 Sponsors to the Plasma initiative include:
 
-For Plasma 1.0 (2019-2022):
+- For Plasma 1.0 (2019-2022):
 
-- [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
-- [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
-- [EUR G.E.N.E.](https://eur-gene.u-paris.fr/), the graduate school on Genetics and Epigenetics,
-- the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://omics-school.net/)).
+  - [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
+  - [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
+  - [EUR G.E.N.E.](https://eur-gene.u-paris.fr/), the graduate school on Genetics and Epigenetics,
+  - the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://omics-school.net/)).
 
-For Plasma 2.0 (2022-):
+- For Plasma 2.0 (2022-):
 
-- [Université Paris Cité](https://u-paris.fr/en/), via via the Paris-NUS call for Innovative Projects in Higher Education (2022-2023) - ANR-18-IDEX-0001
-- [National University of Singapore (NUS)](https://www.nus.edu.sg/) via the Paris-NUS call for Innovative Projects in Higher Education (2022-2023) 
+  - [Université Paris Cité](https://u-paris.fr/en/), via via the Paris-NUS call for Innovative Projects in Higher Education (2022-2023) - ANR-18-IDEX-0001
+  - [National University of Singapore (NUS)](https://www.nus.edu.sg/) via the Paris-NUS call for Innovative Projects in Higher Education (2022-2023) 
 
 The overall budget of the project is 180 k€.
 
