@@ -108,7 +108,7 @@ Beyond the e-learning platform itself, the project includes a number of scientif
 
 ### Resources and communication
 
-The Plasma project has been presented in scientific and computer science conferences:
+Plasma has been presented in computer science and genomics conferences:
 
 - JupyterCon 2020. [Plasma: versatile e-learning platform powered by The Littlest JupyterHub](https://www.youtube.com/watch?v=0KIMSPTMzVY) (2' video)
 - European Society of Human Genetics (ESHG) 2021. [*P17.038.A* Plasma: a versatile e-learning platform for teaching interactively genomic and genetic data analysis with Jupyter notebooks](https://www.nature.com/articles/s41431-021-01026-1#Sec2123)
