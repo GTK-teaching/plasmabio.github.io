@@ -73,7 +73,7 @@ Sponsors to the Plasma initiative include:
   - [Région Île-de-France](https://twitter.com/iledefrance), via the “Trophées franciliens de l’innovation numérique dans le supérieur” ([EdTech 2018](https://www.iledefrance.fr/trophees-franciliens-de-linnovation-numerique-dans-le-superieur-les-laureats-2018)) grant program,
   - [Université de Paris](https://u-paris.fr/en/), via the [Initiative of Excellence (IdEx) Label](https://u-paris.fr/en/the-initiative-of-excellence-idex-label/) and its "innovating teaching" grant program,
   - [EUR G.E.N.E.](https://eur-gene.u-paris.fr/), the graduate school on Genetics and Epigenetics,
-  - the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://omics-school.net/)).
+  - the university training "Création, analyse et valorisation de données biologiques omiques" ([DU Omiques](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-1/sciences-technologies-sante-STS/du-creation-analyse-et-valorisation-de-donnees-biologiques-omiques-DUSCAVD_117.html)).
 
 - For Plasma 2.0 (2022-):
 
