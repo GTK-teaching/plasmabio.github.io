@@ -25,6 +25,10 @@ navigation_header:
   url: /
 - title: Sponsors
   url: /#sponsors
+- title: Developments
+  url: /#developments-and-achievements
+- title: Resources
+  url: /#resources-and-communication
 - title: Contact
   url: "mailto:contact@plasmabio.org"
 

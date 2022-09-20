@@ -83,7 +83,7 @@ Sponsors to the Plasma initiative include:
 The overall budget of the project is 180 k€.
 
 
-## Developments & achievements
+## Developments and achievements
 
 ### Plasma
 
