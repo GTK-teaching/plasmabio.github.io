@@ -93,6 +93,8 @@ The first release of Plasma has been released in May 2020: [Plasma: A learning p
 - code: <https://github.com/plasmabio/plasma>
 - documentation: <https://docs.plasmabio.org/>
 
+To ease the creation of new environments in Plasma, we have created several templates for: [Python](https://github.com/plasmabio/template-python), [R](https://github.com/plasmabio/template-r), [Bash](https://github.com/plasmabio/template-bash) and [Octave](https://github.com/plasmabio/template-octave).
+
 ### Other developments
 
 Beyond the e-learning platform itself, the project includes a number of scientific developments to expand the Jupyter ecosystem in genomics and pedagogy.
