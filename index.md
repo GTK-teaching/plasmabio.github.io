@@ -86,18 +86,30 @@ The overall budget of the project is 180 k€.
 ## Developments & achievements
 
 ### Plasma
-- public announcement [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
-- code: <https://github.com/plasmabio/plasma>
-- documentation: <https://docs.plasmabio.org/>
-- [2' video](https://www.youtube.com/watch?v=0KIMSPTMzVY) of the project presented at JupyterCon 2020
 
 The core of Plasma is [tljh-repo2docker](https://github.com/plasmabio/tljh-repo2docker), a repo2docker plugin for The Littlest JupyterHub.
 
+The first release of Plasma has been released in May 2020: [Plasma: A learning platform powered by Jupyter](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624).
+- code: <https://github.com/plasmabio/plasma>
+- documentation: <https://docs.plasmabio.org/>
 
-### ipycytoscape
+### Other developments
 
-Also part of the Plasma project, the new [ipycytoscape](https://github.com/QuantStack/ipycytoscape) package for interactive graph visualization in Jupyter: <https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63>
+Beyond the e-learning platform itself, the project includes a number of scientific developments to expand the Jupyter ecosystem in genomics and pedagogy.
+
+#### ipycytoscape
+
+[ipycytoscape](https://github.com/QuantStack/ipycytoscape) brings interactive graph visualization in Jupyter. See also the blog post [Interactive Graph Visualization in Jupyter with ipycytoscape](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
+
+#### ipyigv
+
+[ipyigv](https://github.com/QuantStack/ipyigv) is a Jupyter widget to render genomics data. See also the blog post [Genomic data visualization in Jupyter](https://blog.jupyter.org/genomic-data-representation-in-jupyter-c57a5bb518d6)
 
 
+### Resources and communication
 
+The Plasma project has been presented in scientific and computer science conferences:
 
+- JupyterCon 2020. [Plasma: versatile e-learning platform powered by The Littlest JupyterHub](https://www.youtube.com/watch?v=0KIMSPTMzVY) (2' video)
+- European Society of Human Genetics (ESHG) 2021. [*P17.038.A* Plasma: a versatile e-learning platform for teaching interactively genomic and genetic data analysis with Jupyter notebooks](https://www.nature.com/articles/s41431-021-01026-1#Sec2123)
+- Journées Réseaux de l'Enseignement Supérieur (JRES) 2021 (in French). Plasma : plateforme d’e-learning pour l’analyse interactive de données. ([21' vidéo](https://replay.jres.org/w/f1rZTkh84cNimWf4aXHxN1) + [paper](https://hal.archives-ouvertes.fr/hal-03563658)).
