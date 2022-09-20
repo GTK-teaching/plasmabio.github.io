@@ -97,16 +97,11 @@ To ease the creation of new environments in Plasma, we have created several temp
 
 ### Other developments
 
-Beyond the e-learning platform itself, the project includes a number of scientific developments to expand the Jupyter ecosystem in genomics and pedagogy.
+Beyond the e-learning platform itself, the project has founded or co-founded a number of scientific developments to expand the Jupyter ecosystem in genomics and pedagogy.
 
-#### ipycytoscape
-
-[ipycytoscape](https://github.com/QuantStack/ipycytoscape) brings interactive graph visualization in Jupyter. See also the blog post [Interactive Graph Visualization in Jupyter with ipycytoscape](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
-
-#### ipyigv
-
-[ipyigv](https://github.com/QuantStack/ipyigv) is a Jupyter widget to render genomics data. See also the blog post [Genomic data visualization in Jupyter](https://blog.jupyter.org/genomic-data-representation-in-jupyter-c57a5bb518d6)
-
+- [ipycytoscape](https://github.com/QuantStack/ipycytoscape) brings interactive graph visualization in Jupyter. See also the blog post [Interactive Graph Visualization in Jupyter with ipycytoscape](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63) (2020).
+- [ipyigv](https://github.com/QuantStack/ipyigv) is a Jupyter widget to render genomics data. See also the blog post [Genomic data visualization in Jupyter](https://blog.jupyter.org/genomic-data-representation-in-jupyter-c57a5bb518d6) (2021).
+- [nbgrader](https://github.com/jupyter/nbgrader) is a system for assigning and grading notebooks. See also the blog post [Upgrading Nbgrader](https://blog.jupyter.org/upgrading-nbgrader-99c56ae56c47) (2022).
 
 ### Resources and communication
 
