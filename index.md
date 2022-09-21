@@ -106,8 +106,9 @@ Beyond the e-learning platform itself, the project has founded or co-founded a n
 Plasma has been presented in computer science and genomics conferences:
 
 - JupyterCon 2020. [Plasma: versatile e-learning platform powered by The Littlest JupyterHub](https://www.youtube.com/watch?v=0KIMSPTMzVY) (2' video)
+- Journées Ouvertes de Biologie, Informatique et Mathématique (JOBIM) 2020 [in French]. Plasma : e-learning platform for massive data analysis.
 - European Society of Human Genetics (ESHG) 2021. [*P17.038.A* Plasma: a versatile e-learning platform for teaching interactively genomic and genetic data analysis with Jupyter notebooks](https://www.nature.com/articles/s41431-021-01026-1#Sec2123)
-- Journées Réseaux de l'Enseignement Supérieur (JRES) 2021 (in French). Plasma : plateforme d’e-learning pour l’analyse interactive de données. ([21' vidéo](https://replay.jres.org/w/f1rZTkh84cNimWf4aXHxN1) + [paper](https://hal.archives-ouvertes.fr/hal-03563658)).
+- Journées Réseaux de l'Enseignement Supérieur (JRES) 2021 [in French]. Plasma : plateforme d’e-learning pour l’analyse interactive de données. ([21' vidéo](https://replay.jres.org/w/f1rZTkh84cNimWf4aXHxN1) + [paper](https://hal.archives-ouvertes.fr/hal-03563658)).
 
 
 Press release:
